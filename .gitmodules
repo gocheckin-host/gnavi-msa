@@ -1,0 +1,12 @@
+[submodule "presentation_layer"]
+	path = presentation_layer
+	url = https://github.com/lxu-pivotal/gnavi-msa-pl
+[submodule "business_logic_layer_index"]
+	path = business_logic_layer_index
+	url = https://github.com/lxu-pivotal/gnavi-msa-bl-index
+[submodule "business_logic_layer_category"]
+	path = business_logic_layer_category
+	url = https://github.com/lxu-pivotal/gnavi-msa-bl-category
+[submodule "business_logic_layer_area"]
+	path = business_logic_layer_area
+	url = https://github.com/lxu-pivotal/gnavi-msa-bl-area
